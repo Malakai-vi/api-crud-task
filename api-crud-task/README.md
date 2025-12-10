@@ -89,5 +89,5 @@ I am Malakai Villegas, a recent graduate in Web Application Development. This pr
 I recommend this exercise to any programming student because it is the "Rosetta Stone" of backend development: if you understand the Model-Repository-Controller architecture and how Spring Data JPA works, you have the foundation to work with any modern framework (such as Laravel, Django, or Node.js/Express).
 
 
-* **My LinkedIn profile:** (https://www.linkedin.com/in/malakai-villegas-pérez-8239b1339)
+* **LinkedIn profile:** (https://www.linkedin.com/in/malakai-villegas-pérez-8239b1339)
 
