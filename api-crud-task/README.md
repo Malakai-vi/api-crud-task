@@ -77,7 +77,7 @@ Use the **`requests.http`** file included in the project root (requires the **RE
 
 1.  **POST:** Create new tasks.
 2.  **GET:** Retrieve the list of tasks.
-3.  **PUT:** Update a task's status (e.g., to `completada: true`).
+3.  **PUT:** Update a task's status (e.g., to `completed: true`).
 4.  **DELETE:** Remove tasks.
 
 ---
