@@ -77,7 +77,7 @@ Use the **`requests.http`** file included in the project root (requires the **RE
 
 1.  **POST:** Create new tasks.
 2.  **GET:** Retrieve the list of tasks.
-3.  **PUT:** Update a task's status (e.g., to `completada: true`).
+3.  **PUT:** Update a task's status (e.g., to `completed: true`).
 4.  **DELETE:** Remove tasks.
 
 ---
@@ -88,4 +88,4 @@ I am Malakai Villegas, a recent graduate in Web Application Development. This pr
 
 I recommend this exercise to any programming student because it is the "Rosetta Stone" of backend development: if you understand the Model-Repository-Controller architecture and how Spring Data JPA works, you have the foundation to work with any modern framework (such as Laravel, Django, or Node.js/Express).
 
-* **My LinkedIn:** (https://www.linkedin.com/in/malakai-villegas-pérez-8239b1339)
+* **My LinkedIn profile:** (https://www.linkedin.com/in/malakai-villegas-pérez-8239b1339)
